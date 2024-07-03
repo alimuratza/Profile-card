@@ -68,7 +68,7 @@ body{
 
 
 .box-img{
-    background:url("../images/bg-pattern-card.Svg");
+    background:url("./images/bg-pattern-card.svg");
       width: 350px;   
        height: 140px;
        background-size: contain;
@@ -84,7 +84,7 @@ body{
   height: 100px;
   width: 100px;
 border-radius: 50%;
-background: url("/image-victor.jpg");
+background: url("./images/image-victor.jpg");
 background-size: contain;
 background-repeat: no-repeat;
 position: relative;
