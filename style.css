@@ -68,7 +68,7 @@ body{
 
 
 .box-img{
-    background:url(".images/bg-pattern-card.svg");
+    background:url("./bg-pattern-card.svg");
       width: 350px;   
        height: 140px;
        background-size: contain;
